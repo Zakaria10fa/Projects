@@ -1,0 +1,1 @@
+A Jupyter notebook of a BERT model fine-tuned with the Microsoft Research Paraphrase Corpus (MRPC) dataset to compare the meanings of two sentences and return a binary flag (1 meaning the sentences have the same meaning and 0 meaning they have different meanings).
